@@ -2,7 +2,7 @@
  
  https://bmalkes.herokuapp.com/
 
-### <img src="https://gph.is/g/4gYnBv9 width="50"> A little more about me... 
+### <img src="https://gph.is/g/4gYnBv9" width="50"> A little more about me... 
 ```javascript
 const BMalkes = {
   pronouns: "he" | "him"
