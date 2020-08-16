@@ -2,7 +2,7 @@
  
  https://bmalkes.herokuapp.com/
 
-### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> A little more about me... 
 ```javascript
 const BMalkes = {
   pronouns: "he" | "him"
