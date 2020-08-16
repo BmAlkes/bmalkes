@@ -1,0 +1,32 @@
+{% extends "layout.njk" %}
+
+{%block head %}
+
+    <title>Videos - Bruno Malkes</title>
+
+{% endblock %}
+
+{% block content %}
+
+    <div id="wrapper">
+        <h1 class="text">{{item.title}}</h1>
+    </div>
+    <section class="video">
+
+
+
+        <div class="card" id={{item.id}}>
+            <div class="card-video-container">
+               <iframe src="{{item.site}}" frameborder="0"></iframe>
+            </div>
+            <div class="container-card">
+                <p>{{item.title}}</p>
+                <a href="{{item.site}}">Link site</a>
+            </div>
+        </div>
+
+    </section>
+
+    
+
+{% endblock %}
