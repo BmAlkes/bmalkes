@@ -2,7 +2,7 @@
  
  https://bmalkes.herokuapp.com/
 
-###<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+### <img src="https://gph.is/g/4gYnBv9 width="50"> A little more about me... 
 ```javascript
 const BMalkes = {
   pronouns: "he" | "him"
