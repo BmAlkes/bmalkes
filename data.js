@@ -71,5 +71,17 @@ module.exports=[
         featured:false,
         site:"https://foody-ad.herokuapp.com/"
     },
+    {
+        id:"coutdown",
+        title:"New Year Count-Down",
+        featured:false,
+        site:"https://bmalkes.github.io/Count-Down-New-Year/"
+    },
+    {
+        id:'Quiz',
+        title:"Quiz",
+        features:false,
+        site:"https://bmalkes.github.io/Quizz/"
+    }
 
 ]
