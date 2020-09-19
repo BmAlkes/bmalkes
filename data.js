@@ -90,7 +90,7 @@ module.exports=[
         site:"https://bmalkes.github.io/Movie-app/"
     },
     {
-        id:'movies',
+        id:'notes',
         title:"Notes-App",
         features:true,
         site:"https://bmalkes.github.io/Notes-app/"
