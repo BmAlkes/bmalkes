@@ -82,6 +82,18 @@ module.exports=[
         title:"Quiz",
         features:false,
         site:"https://bmalkes.github.io/Quizz/"
+    },
+    {
+        id:'movies',
+        title:"Movie Api List",
+        features:true,
+        site:"https://bmalkes.github.io/Movie-app/"
+    },
+    {
+        id:'movies',
+        title:"Notes-App",
+        features:true,
+        site:"https://bmalkes.github.io/Notes-app/"
     }
 
 ]
