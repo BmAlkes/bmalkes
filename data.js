@@ -97,9 +97,9 @@ module.exports=[
     },
     {
         id:'automotive',
-        title:"automotive design site with HTML & CSS",
+        title:"automotive design site with HTML & CSS3",
         features:true,
-        site:"https://bmalkes.github.io/Notes-app/"
+        site:"https://bmalkes.github.io/automotive-car/"
     },
     {
         id:'restaurant',
