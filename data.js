@@ -94,6 +94,18 @@ module.exports=[
         title:"Notes-App",
         features:true,
         site:"https://bmalkes.github.io/Notes-app/"
+    },
+    {
+        id:'automotive',
+        title:"automotive design site with HTML & CSS",
+        features:true,
+        site:"https://bmalkes.github.io/Notes-app/"
+    },
+    {
+        id:'restaurant',
+        title:"Simple Restaurant Layout",
+        features:true,
+        site:"https://bmalkes.github.io/simple-restaurant/"
     }
 
 ]
