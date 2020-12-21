@@ -17,4 +17,4 @@ Currently a student focused on OmniStack (Javascript, Node.js, ReactJS and React
 }
 
 
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480">
+<iframe src="https://giphy.com/embed/2Ygy0khwewLgMSYM0t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/girlswhocode-computer-2Ygy0khwewLgMSYM0t">via GIPHY</a></p>
