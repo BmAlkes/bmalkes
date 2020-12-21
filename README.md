@@ -17,4 +17,4 @@ Currently a student focused on OmniStack (Javascript, Node.js, ReactJS and React
 }
 
 
-### <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="250">
+### <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="250"/> codding....
