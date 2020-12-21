@@ -5,7 +5,7 @@
  
  https://bmalkes.github.io/new-bmalkes
 
-### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> A little more about me...  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/source.gif" width="250">
+### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> A little more about me...  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/source.gif" width="250" text-align="center">
 ```javascript
 const BMalkes = {
   pronouns: "he" | "him"
