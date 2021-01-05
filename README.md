@@ -1,21 +1,36 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
 
-<h2> Hello  I'M Bruno Malkes:blush:</h2>
- 
- https://bmalkes.github.io/new-bmalkes
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
 
-### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> A little more about me... <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/source.gif" width="350" >
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-```javascript
-const BMalkes = {
-  pronouns: "he" | "him"
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Mongo, Vue.Js],
-  
-"I'm a enthusiast of the best web & mobile development technologies.
-Currently a student focused on OmniStack (Javascript, Node.js, ReactJS and React Native, Vue.Js)."
-}
-````
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-### <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="250"/> 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
