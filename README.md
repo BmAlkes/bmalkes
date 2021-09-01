@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Css, Vue, React, NodeJs, Boostrap</strong>
+  🦄 Languanges: <strong>Javascript, Css, Vue, React, NodeJs, Boostrap</strong>
 </p>
 
 <p align="left">
