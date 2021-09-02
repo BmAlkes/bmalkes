@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello  I'm Bruno I'm a enthusiast of the best web & mobile development technologies. Currently a student focused on Stack (Javascript, Node.js, ReactJS and React Native, Vue.Js).
+  Hello  I'm Bruno I'm a enthusiast of the best web & mobile development technologies. Currently a student focused on Stack (Javascript, Node.js, ReactJS, Vue.Js).
 </p>
 
 <p align="left">
